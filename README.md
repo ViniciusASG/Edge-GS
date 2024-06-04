@@ -1,7 +1,7 @@
 # Edge-GS
 #Integrantes do Projeto
-# Vinicius 557065
-# João
+# Vinicius Augusto RM 557065
+# João Pedro RM 558375
 # 1-ESPW
 #
 # A nossa solução seria um robo de coleta de dados para remoção dos lixos. Ele utilizaria um sistema de geolocalização por arduino e um sistema de ondas sonoras para caso haja perca de sinal. O robo teria placas de energia  # solar para recarga de energia de maneira sustentável.A partir de coordenadas e locais provaveis de haver lixo, o robo iria verificar se ha a presença de lixo na localização, e enviaria as informações se ha lixo ou nao.    # Fariamos um site compartilhando essas informações, e alguns sistemas adicionais, como por exemplo, a comparação de lugares e suas respectivas quantidades de lixos.
